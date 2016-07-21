@@ -1948,8 +1948,8 @@ EVT_8007744_DESC;Very recently, radical communists gathered in Italian Communist
 EVT_8007744_A;Sponsor a coup;;;;;;;;;;X;;;;;;;
 EVT_8007744_B;Let Italians have their way;;;;;;;;;;X;;;;;;;
 EVT_8007745_NAME;Right-wing coup to happen in Italy;;;;;;;;;;X;;;;;;;
-EVT_8007745_DESC;Our intelligence reports the recent electoral victory of Italian Communist Party in their country did not bring good reactions among capitalist government with United States administration quickly assembling means (military forces, mostly) to overthrow new Italian government. They seem to be so determined to push communism out of Italy that they can put worldwide conflict on table. Shall we react anyway and send an ultimatum to Washington?;;;;;;;;;;X;;;;;;;
-EVT_8007745_A;Send ultimatum (high chance of WW3);;;;;;;;;;X;;;;;;;
+EVT_8007745_DESC;Our intelligence reports the recent electoral victory of Italian Communist Party in their country did not bring good reactions among capitalist government with United States administration quickly assembling means (military forces, mostly) to overthrow new Italian government. They seem to be so determined to push communism out of Italy that they can put worldwide conflict on table. Shall we support the communist goveernment of Italy agist the coup?;;;;;;;;;;X;;;;;;;
+EVT_8007745_A;Support communist Italy;;;;;;;;;;X;;;;;;;
 EVT_8007745_B;Italy is lost to us;;;;;;;;;;X;;;;;;;
 EVT_8007746_NAME;USSR will support Italian Communist Party;;;;;;;;;;X;;;;;;;
 EVT_8007746_DESC;Assembling our intelligence measures and military forces within vicinity of Italy, we receive a message for Moscow, urging us to stop our meddling in internal affairs of Italy. USSR is determined to stop our actions at all costs, up to including taking military action. Is Italy so precious to us to go to world war?;;;;;;;;;;X;;;;;;;
@@ -1960,7 +1960,12 @@ EVT_8007747_DESC;Feeling support of the population and communists worldwide, key
 EVT_8007747_A;OK;;;;;;;;;;X;;;;;;;
 EVT_8007748_NAME;American-sponsored coup;;;;;;;;;;X;;;;;;;
 EVT_8007748_DESC;While Italian Communist Party leaders prepared themselves for post-electoral celebrations and announcements of radical societal changes to come, events turned dire to them, with large masses of military approaching cities. Among local troops, American equipment and units are seen in large numbers, ensuring proper firepower and determination of wavering Italian army. Within hours, communist leaders are jailed, many local activists come into hiding in fear of arrest. Western powers resorted to force in ending workers' dream in Italy, even before it started.;;;;;;;;;;X;;;;;;;
-EVT_8007748_A;OK;;;;;;;;;;X;;;;;;;
+EVT_8007748_A;This is civil war - play as communist;;;;;;;;;;X;;;;;;;
+EVT_8007748_B;This is civil war - play as anti-communist;;;;;;;;;;X;;;;;;;
+EVT_8007748_C;Concede defeat;;;;;;;;;;X;;;;;;;
+EVT_8007749_NAME;Return to Rome;;;;;;;;;;X;;;;;;;
+EVT_8007749_DESC;The civil war is over. Terurn the capital to Rome.;;;;;;;;;X;;;;;;;
+EVT_8007749_A;OK;;;;;;;;;;X;;;;;;;
 EVT_8007750_NAME;Killing of Aldo Moro;;;;;;;;;;X;;;;;;;
 EVT_8007750_DESC;On March 16, 1978, on Via Fani, a street in Rome, a unit of the militant Communist organisation known as the Red Brigades blocked the two-car convoy transporting Moro and kidnapped him, murdering his five bodyguards. In the following days, trade unions called for a general strike, while security forces made hundreds of raids in Rome, Milan, Turin and other cities searching for Moro's location. Held for two months, he was allowed to send letters to his family and politicians. The government refused to negotiate, despite demands by family, friends and Pope Paul VI.;;;;;;;;;;X;;;;;;;
 EVT_8007750_A;OK;;;;;;;;;;X;;;;;;;
@@ -2469,13 +2474,12 @@ EVT_8014227_NAME;Doctors' plot;;;;;;;;;;X;;;;;;;
 EVT_8014227_DESC;"The Doctors' plot in 1952/53 was the most dramatic anti-Jewish episode in the Soviet Union during Joseph Stalin's regime, involving the ""unmasking"" of a group of prominent Moscow doctors, predominantly Jews, as conspiratorial assassins of Soviet leaders. With the beginning of the Cold War, the State of Israel allying with the West, and Stalin's suspicions of any form of nationalism, the Soviet regime eliminated the Jewish Anti-Fascist Committee in 1948 and launched a campaign against so-called ""rootless cosmopolitans."" Also, in the course of his career, Stalin became increasingly suspicious towards physicians.;;;;;;;;;;X;;;;;;;
 EVT_8014227_A;Unmask the conspirators!;;;;;;;;;;X;;;;;;;
 EVT_8014227_B;It's an insane idea;;;;;;;;;;X;;;;;;;
-EVT_8014228_NAME;XXth Congress of the Party;;;;;;;;;;X;;;;;;;
-EVT_8014228_DESC;The 20th Congress of the Communist Party of the Soviet Union was held during 14 25 February 1956. Delegates at this Congress of the Communist Party of the Soviet Union were given no advance warning of what to expect. Indeed, proceedings were opened by the call for all to stand in memory of the Communist leaders who had died since the previous Congress, with Stalin receiving almost God-like tributes. Still, not all the Party followed this line without any qualms and some voices could be heard that Soviet leadership may be ready to shake off Stalin's legacy and condemn his atrocities.;;;;;;;;;;X;;;;;;;
-EVT_8014228_A;Criticize cult of personality;;;;;;;;;;X;;;;;;;
-EVT_8014228_B;Contemplate greatness of Stalin once more;;;;;;;;;;X;;;;;;;
 EVT_8014233_NAME;Ousting of Nikita Khrushchev;;;;;;;;;;X;;;;;;;
 EVT_8014233_DESC;"Beginning in March 1964, Supreme Soviet head Leonid Brezhnev began discussing Khrushchev's removal with his colleagues. While Brezhnev considered having Khrushchev arrested as he returned from a trip to Scandinavia in June, he instead spent time persuading members of the Central Committee to support the ousting of Khrushchev, remembering how crucial the Committee's support had been to Khrushchev in defeating the Anti-Party Group plot. Brezhnev was given ample time for his conspiracy;;;;;;;;;;X;;;;;;;
 EVT_8014233_A;OK;;;;;;;;;;X;;;;;;;
+EVT_8014234_NAME;Supreme Soviet head Leonid Brezhnev;;;;;;;;;;X;;;;;;;
+EVT_8014234_DESC;Leonid Brezhnev was the General Secretary of the Central Committee. His eighteen-year term as General Secretary was second only to that of Joseph Stalin in duration. During Brezhnev's rule, the global influence of the Soviet Union grew dramatically, in part because of the expansion of the Soviet military during this time. His tenure as leader was marked by the beginning of an era of economic and social stagnation in the Soviet Union.;;;;;;;;;;X;;;;;;;
+EVT_8014234_A;OK;;;;;;;;;;X;;;;;;;
 EVT_8014235_NAME;Death of Brezhnev;;;;;;;;;;X;;;;;;;
 EVT_8014235_DESC;For the last two years Brezhnev was only a figurehead. His health worsened in the winter of 198182. In the meantime, the country was governed by Andrei Gromyko, Dmitriy Ustinov, Mikhail Suslov and Yuri Andropov and crucial Politburo decisions were made in his absence. While the Politburo was pondering the question of who would succeed, all signs indicated that the ailing leader was dying. It was Andropov who, with the help of fellow KGB associates, started circulating rumours that political corruption had become worse during Brezhnev's tenure as leader, in an attempt to create an environment hostile to Brezhnev in the Politburo.;;;;;;;;;;X;;;;;;;
 EVT_8014235_A;OK;;;;;;;;;;X;;;;;;;
@@ -3040,8 +3044,8 @@ EVT_8176115_A;OK;;;;;;;;;;X;;;;;;;
 EVT_8200000_NAME;Ceding Chinese lands;;;;;;;;;;X;;;;;;;
 EVT_8200000_DESC;After concluding our war with Japan we are left with sizeable portion of lands that were parts of China long before Empire of Japan started expansion there. The puppet governments of Manchuria and Inner Mongolia are defeated and we really do not have any strong reason for our continuous presence. What is more, it is a perfect opportunity to lend a helping hand to Communist faction in China. As we are able to choose who should receive these provinces, it is obvious that we will use this chance to boost Mao's chance of gaining the upper hand.;;;;;;;;;;X;;;;;;;
 EVT_8200000_A;Give them these lands (keep only Port Arthur);;;;;;;;;;X;;;;;;;
-EVT_8200000_B;It is in our interest not to give it up;;;;;;;;;;X;;;;;;;
-EVT_8200000_C;Recreate Manchuria as Soviet Puppet;;;;;;;;;;X;;;;;;;
+EVT_8200000_B;Retrun it to Communist China (keep Port Arthur);;;;;;;;;;X;;;;;;;
+EVT_8200000_C;It is in our interest not to give it up;;;;;;;;;;X;;;;;;;
 EVT_8200001_NAME;Ceding Chinese lands;;;;;;;;;;X;;;;;;;
 EVT_8200001_DESC;After concluding our war with Japan we are left with sizeable portion of lands that were parts of China long before Empire of Japan started expansion there. The puppet governments of Manchuria and Inner Mongolia are defeated and we really do not have any strong reason for our continuous presence. There is no more a communist faction that we can support by giving them these lands and only imperialist and bloodthirsty followers of Chiang remained. Even though, can we really hold these lands perpetually? We may get rid of this burden and arrange a gift for Nationalists anyway.;;;;;;;;;;X;;;;;;;
 EVT_8200001_A;Give them these lands back;;;;;;;;;;X;;;;;;;
@@ -5281,7 +5285,6 @@ EVT_8500207_NAME;Missiles in Cuba: American quarantine;;;;;;;;;;X;;;;;;;
 EVT_8500207_DESC;Kennedy met with members of EXCOMM and other top advisers throughout October 21, considering two remaining options: an air strike primarily against the Cuban missile bases, or a naval blockade of Cuba. Robert McNamara supported the naval blockade as a strong but limited military action that left the U.S. in control. Kennedy administration did not think that the USSR would be provoked to attack by a mere blockade.;;;;;;;;;;X;;;;;;;
 EVT_8500207_A;Continue convoys;;;;;;;;;;X;;;;;;;
 EVT_8500207_B;Call off convoys;;;;;;;;;;X;;;;;;;
-EVT_8500207_C;Kennedy thought wrong (WW3);;;;;;;;;;X;;;;;;;
 EVT_8500208_NAME;Crisis continues;;;;;;;;;;X;;;;;;;
 EVT_8500208_DESC;At this point, the crisis was ostensibly at a stalemate. The USSR had shown no indication that they would back down and had made several comments to the contrary. The U.S. had no reason to believe otherwise and was in the early stages of preparing for an invasion, along with a nuclear strike on the Soviet Union in case it responded militarily, which was assumed.;;;;;;;;;;X;;;;;;;
 EVT_8500208_A;Propose negotiations;;;;;;;;;;X;;;;;;;
@@ -6956,9 +6959,15 @@ EVT_22602_DESC;The total fertility rate (TFR) of a population is the average num
 EVT_22612_NAME;Haredi Judaism;;;;;;;;;;;;;x;;;;
 EVT_22612_DESC;Haredi life, like Orthodox Jewish life in general, is very family-centered. Boys and girls attend separate schools and proceed to higher Torah study, in a yeshiva or seminary respectively, starting anywhere between the ages of 13 and 18. A significant proportion of young men remain in yeshiva until their marriage. After marriage, many Haredi men continue their Torah studies in a kollel. Studying in secular institutions is discouraged, although educational facilities for vocational training in a Haredi framework do exist. In the United States and Europe, the majority of Haredi males are active in the workforce. For various reasons, in Israel, around half of their members do not work, and most of those who do are not officially a part of the workforce.Families are usually large, reflecting adherence to the biblical commandment "Be fruitful and multiply".;;;;;;;;;;;;;x;;;;
 EVT_22612_OPTA;Carry the traditions of Judaism;;;;;;;;;;;;;x;;;;
+EVT_22612_OPTB;No special treatment of Haredi;;;;;;;;;;;;;x;;;;
 EVT_22613_NAME;Old Order Mennonite;;;;;;;;;;;;;x;;;;
 EVT_22613_DESC;Having children, raising them, and socialization with neighbors and relatives are the greatest functions of the Amish family. Amish believe large families are a blessing from God. Two key concepts for understanding Old Order Mennonite practices are their rejection of Hochmut (pride, arrogance, haughtiness) and the high value they place on Demut (humility) and Gelassenheit (calmness, composure, placidity), often translated as "submission" or "letting-be". Gelassenheit is perhaps better understood as a reluctance to be forward, to be self-promoting, or to assert oneself. The Old Order Mennonite's willingness to submit to the "Will of Jesus", expressed through group norms, is at odds with the individualism so central to the wider American culture. The Old Order Mennonite anti-individualist orientation is the motive for rejecting labor-saving technologies that might make one less dependent on community. Modern innovations like electricity might spark a competition for status goods, or photographs might cultivate personal vanity.;;;;;;;;;;;;;x;;;;
 EVT_22613_OPTA;A blessing from God;;;;;;;;;;;;;x;;;;
+EVT_22613_OPTB;Integrate them in society, they shall learn about evolution and female rights;;;;;;;;;;;;;x;;;;
+EVT_22614_NAME;Romanipen;;;;;;;;;;;;;x;;;;
+EVT_22614_DESC;Romanipen is a complicated term of Romani philosophy that means totality of the Romani spirit, Romani culture, Romani Law, being a Romani, a set of Romani strains. An ethnic Romani is considered to be a Gadjo (non-Romani) in the Romani society if he has no Romanipen. Romani live as a separate group in society often under matrially difficult conditions.;;;;;;;;;;;;;x;;;;
+EVT_22614_OPTA;Let them stay with there Romanipen culture;;;;;;;;;;;;;x;;;;
+EVT_22614_OPTB;Try and integrate Romani in society;;;;;;;;;;;;x;;;;
 EVT_101933_NAME;Arab Spring;;;;;;;;;;;;;x;;;;
 EVT_101933_DESC;The Arab Spring was a revolutionary wave of demonstrations and protests (both non-violent and violent), riots, and civil wars in the Arab world that began on 18 December 2010 in Tunisia with the Tunisian Revolution, and spread throughout the countries of the Arab League and its surroundings.;;;;;;;;;;;;;x;;;;
 EVT_101933_OPTA;Large-scale discourse is ahead of us;;;;;;;;;;;;;x;;;;
@@ -12978,9 +12987,75 @@ EVT_800151_NAME;$COUNTRY_ADJ$ Patriots;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 EVT_800151_DESC;$COUNTRY_ADJ$ patriots have risen up in a neighboring country, and have gained sufficient control that they have sent word they wish to bring the province back to $COUNTRY$. Agreeing would mean risking war, but refusing would mean angering our people.;;;;;;;;;;;;x
 EVT_800151_A;We welcome their return.;;;;;;;;;;;;;x,,,;;;;
 EVT_800151_B;It is too risky.;;;;;;;;;;;;;x,,,;;;;
-EVTNAME3205;Promotion of democracy;;;;;;;;;;;;;;;;;
-EVTDESC3205;Since we are a democracy, we must protect our way of life. Support of democratic ideologies through media campaigns and party subsidises will increase their popularity.;;;;;;;;;;;;;;;;;
-EVTOPTA3205;Ok.;;;;;;;;;;;;;;;;;
-EVTNAME3206;Restriction of non-democratic;;;;;;;;;;;;;;;;;
-EVTDESC3206;Since we are a democracy, we must protect our way of life. Support of democratic ideologies through media campaigns and party subsidises will increase their popularity, while critisizing all kinds of non-democratic movements is going to make them completely unethical for most of our citizens.;;;;;;;;;;;;;;;;;
-EVTOPTA3206;Ok.;;;;;;;;;;;;;;;;;
+EVTNAME3205;Promotion of democracy;;;;;;;;;;;;;x
+EVTDESC3205;Since we are a democracy, we must protect our way of life. Support of democratic ideologies through media campaigns and party subsidises will increase their popularity.;;;;;;;;;;;;;x
+EVTOPTA3205;Ok.;;;;;;;;;;;;;x
+EVTNAME3206;Restriction of non-democratic;;;;;;;;;;;;;x
+EVTDESC3206;Since we are a democracy, we must protect our way of life. Support of democratic ideologies through media campaigns and party subsidises will increase their popularity, while critisizing all kinds of non-democratic movements is going to make them completely unethical for most of our citizens.;;;;;;;;;;;;;x
+EVTOPTA3206;Ok.;;;;;;;;;;;;;x
+EVT_15615_NAME;Conflict Resolution. $FROMCOUNTRY$ has decided to get involved;;;;;;;;;;;;;x
+EVT_15615_DESC;We have territorial claims on neighbouring countries. These claims hinders integration with $FROMCOUNTRY$. How should we respond?;;;;;;;;;;;;;x
+EVT_15615_A;Give up claims;;;;;;;;;;;;;x
+EVT_15615_B;Keep our claims;;;;;;;;;;;;;x
+EVT_15616_NAME;$FROMCOUNTRY$ proposes a compromize for territorial conflict;;;;;;;;;;;;;x
+EVT_15616_DESC;$FROMCOUNTRY$ has territorial claims on us. They propose a peacfull resolution of the conflict under international law. How shall we respond?;;;;;;;;;;;;;x
+EVT_15616_A;Give up claims;;;;;;;;;;;;;x
+EVT_15616_B;Don't give up our cores;;;;;;;;;;;;;x
+EVT_15617_NAME;$FROMCOUNTRY$ gives freedom;;;;;;;;;;;;;x
+EVT_15617_DESC;$FROMCOUNTRY$ are ending territorial claims on us and giving us freedom;;;;;;;;;;;;;x
+EVT_15617_A;Freedom at last;;;;;;;;;;;;;x
+EVT_15618_NAME;$FROMCOUNTRY$ are hindering a peacfull resolution of the conflict;;;;;;;;;;;;;x
+EVT_15618_DESC;$FROMCOUNTRY$ has territorial disputes. They propose resist a peacfull resolution of the conflict under international law. How shall we respond?;;;;;;;;;;;;;x
+EVT_15618_A;Leave the situation be. Make a nother try in a couple of years;;;;;;;;;;;;;x
+EVT_15619_NAME;Peace mission success. ;;;;;;;;;;;;;x
+EVT_15619_DESC;$FROMCOUNTRY$ has agreed to a peacfull resolution of the conflict. The conflict will be resolved under international law.;;;;;;;;;;;;;x
+EVT_15619_A;A diplomatic triumph;;;;;;;;;;;;;x
+EVT_800053_NAME;$FROMCOUNTRY$ are seizing our assets;;;;;;;;;;;;;x
+EVT_800053_DESC;The Communist takover in $FROMCOUNTRY$ has set in motion process of transforming private assets into public assets by bringing them under the public ownership of a national government or state. This thretens our foregin investment as well as any other nations. How should we responde?;;;;;;;;;;;;;x
+EVT_800053_A;War!;;;;;;;;;;;;;x
+EVT_800053_B;Keep all options on the table;;;;;;;;;;;;;x
+EVT_8007840_NAME;The San Francisco Treaty;;;;;;;;;;;;;x
+EVT_8007840_DESC;The Treaty officially renounced Japan's treaty rights derived from the Boxer Protocol of 1901 and its rights to Korea, Formosa (Taiwan) and the Pescadores, Hong Kong (then a British colony), the Kuril Islands, the Spratly Islands, Antarctica and Sakhalin Island. Article 3 of the treaty left the Bonin Islands and the Ryukyu Islands under a potential U.S. trusteeship intending fot these territories to become U.S. trusteeship. At the end that option was not pursued," the Amami Islands were eventually restored to Japan on December 25 1953 as well as the Bonin Islands on April 5 1968. In 1969 U.S.-Japan negotiations authorized the transfer of authority over the Ry?ky?s to Japan to be implemented in 1972. In 1972 the United States' ""reversion"" of the Ry?ky?s occurred along with the ceding of control over the nearby Senkaku Islands. Both the People's Republic of China (PRC) and the Republic of China (ROC) argue that this agreement did not determine the ultimate sovereignty of the Senkaku Islands. ;;;;;;;;;;;;;;;;;",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EVT_8007840_A;Don't meddle too much with it. (historical outcome);;;;;;;;;;;;;x
+EVT_8007840_B;Try to negotiate our way into a favourable outcome.;;;;;;;;;;;;;x
+EVT_8007841_NAME;The San Francisco Treaty Negotiations;;;;;;;;;;;;;x
+EVT_8007841_DESC;Eventhough Japan was under occupation of the US at the time they Japan still had negotiation power during the makeup of the treaty. Before the treaty will be signed by us and the other attendees we could try to steer the treaty into a direction which would be more favourable for us.;;;;;;;;;;;;;x
+EVT_8007841_A;We will lay claim to full Sakhalin and the Kuril islands.;;;;;;;;;;;;;x
+EVT_8007841_B;We will keep claim to our pre-WW2 borders in the north.;;;;;;;;;;;;;x
+EVT_8007841_C;We will renounce our claims in the northern Kuril islands only.;;;;;;;;;;;;;x
+EVT_8007841_D;We will renounce our claims in south Sakhalin but keep claims on the Kuril islands.;;;;;;;;;;;;;x
+EVT_8007841_E;We will keep our claims in the southern Kuril islands only. (historical outcome);;;;;;;;;;;;;x
+EVT_8007841_F;We will renounce all of our northern claims to ensure a good relation with the Soviets.;;;;;;;;;;;;;x
+EVT_8007842_NAME;The San Francisco Treaty Historical Outcome;;;;;;;;;;;;;x
+EVT_8007842_A;We sign the treaty as it is.;;;;;;;;;;;;;x
+EVT_8007843_DESC;Japan has refused to fully renounce ownership of Sakhalin and the Kuril islands, this will surely brew trouble between us in the future.;;;;;;;;;;;;;;;;;
+EVT_8007843_A;We are not happy with this.;;;;;;;;;;;;;x
+EVT_8007844_DESC;Japan has despite all odds agreed to drop all claims in both Sakhalin and the Kuril islands, this brings hope of a closer relaionship and a potential ally in the east.;;;;;;;;;;;;;;;;;
+EVT_8007844_A;We are pleased.;;;;;;;;;;;;;x
+EVT_8007845_DESC;The outcome of the treaty was clear, Japan intended to drop all their claims in Soviet held lands. We fear losing our ally in the east now that Soviet influence in Japan has gained a foothold.;;;;;;;;;;;;;;;;;
+EVT_8007845_A;We are saddened by this decision of Japan.;;;;;;;;;;;;;x
+EVT_8007846_DESC;Japan has declared that claims will be kept in Soviet owned land, together with us they intend to stand against communism.;;;;;;;;;;;;;;;;;
+EVT_8007846_A;We will assure the safety of Japan for years to come!;;;;;;;;;;;;;x
+EVT_8007847_NAME;US Cancells Islands Transfer.;;;;;;;;;;;;;x
+EVT_8007847_DESC;The US has gone back on their intent to return the Ryukyu islands to us, althought they were planned to be part of the US trusteeship we could still demand authority over them once again.;;;;;;;;;;;;;;;;;
+EVT_8007847_A;We will claim these islands as they were originally part of Japan.;;;;;;;;;;;;;x
+EVT_8007847_B;Let us keep us to the treaty.;;;;;;;;;;;;;x
+EVT_8007848_DESC;The US has gone back on their intent to return the Bonin islands to us, althought they were planned to be part of the US trusteeship we could still demand authority over them once again.;;;;;;;;;;;;;;;;;
+EVT_880211_NAME;IT Leaks;;;;;;;;;;;;;x
+EVT_880211_DESC;A major IT leak of confidential material. Several promintent politicans and idustrial leaders are implicated. Among the leaders implicated for corruption and illegal activites are members of our rivals ruling party. Shall we use this to hurt their standing in the world?;;;;;;;;;;;;;x
+EVT_880211_A;Use this to hurt...;;;;;;;;;;;;;x
+EVT_880211_B;Never mind;;;;;;;;;;;;;x
+EVT_880212_NAME;IT Leaks causes Ruling Party Scandal;;;;;;;;;;;;;x
+EVT_880212_DESC;There has been a major IT leak of confidential material. Several promintent politicans and idustrial leaders are implicated. Among the leaders implicated for corruption and illegal activites are members of our ruling party. It is the goverments view that $FROMCOUNTRY$ uses this to hurt us.;;;;;;;;;;;;;x
+EVT_880212_A;The evidence is irrefutable;;;;;;;;;;;;;x
+EVT_8008010_NAME;Tajikistani Civil War;;;;;;;;;;;;;x
+EVT_8008010_DESC;Tajikistani Civil War, began in May 1992 when ethnic groups from the Garm and Gorno-Badakhshan regions of Tajikistan, which were mainly Islamic-oriented groups following Wahabi ideology, rose up against the government of President Rahmon Nabiyev, which was dominated by people from the Khujand and Kulyab regions. Politically, different rebel groups were who fought together and later organized under the banner of the United Tajik Opposition.;;;;;;;;;;;;;x
+EVT_8008010_A;Play as Islamist rebells;;;;;;;;;;;;;x
+EVT_8008010_B;Play as the governemnt;;;;;;;;;;;;;x
+EVT_8008011_NAME;Islamist vitory in the Tajikistani Civil War;;;;;;;;;;;;;x
+EVT_8008011_DESC;Islamist claims vitory in the Tajikistani Civil War. Lets orient ourselves towards Afghanistan and strive for a Islamic central asia.;;;;;;;;;;;;;x
+EVT_8008011_A;Ok;;;;;;;;;;;;;x
+EVT_8008012_NAME;Government vitory in the Tajikistani Civil War;;;;;;;;;;;;;x
+EVT_8008012_DESC;Government claims vitory in the Tajikistani Civil War. Shall we try and reach a compromise with the opostion and give them a place in the governemtn or stay on a rigid socialist path?;;;;;;;;;;;;;x
+EVT_8008012_A;Stay hardline;;;;;;;;;;;;;x
+EVT_8008012_B;Compromise;;;;;;;;;;;;;x

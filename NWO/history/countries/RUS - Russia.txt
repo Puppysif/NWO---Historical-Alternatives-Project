@@ -84,7 +84,6 @@ command_of_the_sea = 1
 consciousness = 1
 nonstate_consciousness = 1
 schools = army_tech_school
-oob = "/RUS_oob.txt"
 
 1992.1.1 = {
 	capital = 1008
@@ -180,5 +179,24 @@ oob = "/RUS_oob.txt"
 	anti_submarine_warfare = 1
 	command_of_the_sea = 1
 	sea_denial_strategy = 1
+	foreign_investment = {
+		HUN = 240
+		KAZ = 1600
+		TRD = 100
+		AZB = 560
+		ABK = 100
+		POL = 680
+		SYR = 900
+		BYE = 1400
+		CZH = 320
+		ROM = 500
+		MGL = 800
+		BUL = 660
+		SOT = 100
+		TKR = 320
+		ARM = 300
+		UZB = 700
+		UKR = 3200
+	}
 oob = "1992/RUS_oob.txt"
 }

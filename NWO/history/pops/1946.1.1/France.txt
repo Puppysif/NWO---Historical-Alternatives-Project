@@ -9602,12 +9602,22 @@
 	farmers = {
 		culture = french
 		religion =  catholic 
-		size = 109356
+		size = 95236
 	 } 
 	farmers = {
 		culture = french
 		religion = secularism
-		size = 24823
+		size = 21618
+	 } 
+	farmers = {
+		culture = german
+		religion =  catholic 
+		size = 14119
+	 } 
+	farmers = {
+		culture = german
+		religion = secularism
+		size = 3205
 	 } 
 }
 #Verdun - Verdun (128000/32000 POPS)
@@ -14352,22 +14362,12 @@
 	farmers = {
 		culture = french
 		religion =  catholic 
-		size = 69408
+		size = 151646
 	 } 
 	farmers = {
 		culture = french
 		religion = secularism
-		size = 15755
-	 } 
-	farmers = {
-		culture = white_french
-		religion =  catholic 
-		size = 82237
-	 } 
-	farmers = {
-		culture = white_french
-		religion = secularism
-		size = 18667
+		size = 34422
 	 } 
 }
 #Mont de Marsan - Mont de Marsan (851000/212750 POPS)
